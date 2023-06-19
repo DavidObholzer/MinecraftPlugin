@@ -1,0 +1,4 @@
+name: Obholzer_Plugin
+version: '${project.version}'
+main: me.david.obholzer.obholzer_plugin.Obholzer_Plugin
+api-version: 1.19
